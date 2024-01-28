@@ -1,0 +1,2 @@
+# AppGastos
+aplicacion control degastos
